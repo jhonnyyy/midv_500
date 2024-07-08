@@ -1,0 +1,4 @@
+midv500
+pillow
+torch 
+torchvision
